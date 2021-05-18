@@ -26,11 +26,7 @@ For more arguments..
 
 ### Citation
 User is needed to cite as below;
-	{MassToMatrix
-	author = Yong Ha In,
-	title = {MassToMatrix, Making feature matrix for machine learning using mass spectrum data},
-	published = {\url{https://github.com/nuclearpytherian/MassToMatrix}},
-	year = {2021} }
+	{MassToMatrix, author = Yong Ha In, title = {MassToMatrix, Making feature matrix for machine learning using mass spectrum data}, published = {\url{https://github.com/nuclearpytherian/MassToMatrix}}, year = {2021} }
 
 
 ### License
