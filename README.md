@@ -24,11 +24,11 @@ Then, dizitized peak data will be generated in "xml_export" folder. The data for
 For more arguments..
 
 
-### Citation
+## Citation
 User is needed to cite as below;
 
 	{MassToMatrix, author = Yong Ha In, title = {MassToMatrix, Making feature matrix for machine learning using mass spectrum data}, published = {\url{https://github.com/nuclearpytherian/MassToMatrix}}, year = {2021} }
 
 
-### License
+## License
 > Copyright 2021 "nuclearpyterian". All Rights Reserved.
