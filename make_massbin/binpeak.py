@@ -127,7 +127,7 @@ class mass_list():
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="massbin")
     parser.add_argument("--xmlPath", "-p", type=str, default="xml_export", help="Path where xmls stored.")
-    parser.add_argument("--tolerance", "-t", type=float, default=0.03, help="Mass bin tolerance.")
+    parser.add_argument("--tolerance", "-t", type=float, default=0.001, help="Mass bin tolerance.")
     parser.add_argument("--bintype", "-b", type=str, default="intensity", help="Type of value of mass matrix. Values: 'intensity' or 'mass'.")
     args = parser.parse_args()
 
