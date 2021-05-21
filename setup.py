@@ -9,7 +9,7 @@ install_requires = [
 ]
 
 dependency_links = [
-    'git+https://github.com/nuclearpytherian/MALDIquant.git',
+    'git+https://github.com/nuclearpytherian/MassToMatrix.git',
 ]
 
 setup(
