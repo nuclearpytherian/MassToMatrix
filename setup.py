@@ -13,7 +13,7 @@ dependency_links = [
 ]
 
 setup(
-    name="binpeak",
+    name="MassToMatrix",
     version='0.1',
     auther='nuclearpytherian',
     author_email='nuclearpytherian@gmail.com',
